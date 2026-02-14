@@ -34,16 +34,7 @@ The system continuously compares light intensity on both sides of the panel usin
 📈 Goal
 To contribute to a more sustainable and green future by improving renewable energy utilization through automation and embedded systems.
 
-👨‍💻 Authors:
+👨‍💻 Author:
 
 Vishwa Lad
 
-Vatsal Lad
-
-Mansi Bhojak
-
-Zeel Bhandari
-
-Khushi Kharvasiya
-
-R.N.G. Patel Institute of Technology, Bardoli
